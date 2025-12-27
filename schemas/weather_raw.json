@@ -1,0 +1,8 @@
+{
+  "date": "YYYY-MM-DD",
+  "city": "string",
+  "temperature": "float",
+  "humidity": "int",
+  "weather_condition": "string",
+  "wind_speed": "float"
+}
